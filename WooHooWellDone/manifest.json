@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "Woo hoo Well Done",
+	"description": "Apir",
+	"version": "1.0",
+	"browser_action": {
+ 		"default_icon": "tempwp_icon.png",
+ 		"default_popup": "popup.html",
+ 		"default_title": "Woohoo Well Done"
+ 	}
+}
